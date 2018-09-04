@@ -5,8 +5,9 @@
 # NLPAssignment1
 DESC:
 Its Ajax based web application where the search box going to predict the next word
-Its a Hibernate Ajax Spring MYSQL Based  NLP Application where there is a Search box,
-it going to Predict the next word.
+Its a Hibernate Ajax Spring, MYSQL Based  NLP Application where there is a Search box,
+It's going to Predict the next word.
+Hadoop is to handle huge ammunt of data.
 ==============================================================================================
 Requirements:
 Its developped in 
